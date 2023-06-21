@@ -1,7 +1,7 @@
 
 ## A simple form control application
 
-## that checks the following:
+## That checks the following:
 
 - Minimum and maximum character limits for the username.
 - Whether the passwords match each other.
