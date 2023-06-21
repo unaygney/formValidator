@@ -1,12 +1,9 @@
-## Form Validator (Intro Project)
 
-Simple client side form validation. Check requird, length, email and password match
+##A simple form control application
 
-## Project Specifications
+## that checks the following:
 
-- Create form UI
-- Show error messages under specific inputs
-- checkRequired() to accept array of inputs
-- checkLength() to check min and max length
-- checkEmail() to validate email with regex
-- checkPasswordsMatch() to match confirm password
+- Minimum and maximum character limits for the username.
+- Whether the passwords match each other.
+- Whether the email is in the correct format.
+- I tried to write my code as modular and understandable as possible, especially on the JavaScript side.
